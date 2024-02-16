@@ -37,7 +37,7 @@
   position: absolute;
   width: 80px;
   height: 140%;
-  /* background: white; */
+  background: white;
   background: rgb(29, 78, 216);
   animation: rotate 4s linear infinite;
 }
@@ -72,20 +72,11 @@
 .project-image {
   width: 25.5rem;
   height: 17rem;
-  transition: transform 0.3s ease; /* Add a transition */
+  transition: transform 0.3s ease;
 }
 
 .project-image:hover {
-  transform: scale(1.1); /* Scale the image on hover */
-}
-
-@keyframes animate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
+  transform: scale(1.1);
 }
 
 @layer utilities {
