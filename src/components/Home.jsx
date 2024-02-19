@@ -30,7 +30,7 @@ const Home = () => {
             </button>
             <button className="px-5 py-3 rounded-xl bg-neutral-500 text-white hover:opacity-95">
               <a
-                href="https://drive.google.com/uc?export=download&id=1n3MzEnrh6md8QnCmW7hKzgt9M_psURft"
+                href="https://drive.google.com/file/d/1DpB1gMKIM_Cs3PZTJRrDvIhpl8D3rb00/view?usp=drive_link"
                 download
               >
                 Download CV
