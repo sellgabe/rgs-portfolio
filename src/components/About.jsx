@@ -16,10 +16,10 @@ const About = () => {
         <div className="m-auto text-center lg:text-left max-w-[35rem]">
           <h4 className="font-bold text-blue-500 text-lg mb-2">ABOUT ME</h4>
           <h2 className="font-bold text-2xl max-w-[21rem] mb-4 max-lg:mx-auto">
-            Front-End Developer based in the Philippines 📍
+            Web Developer based in the Philippines 📍
           </h2>
           <p className="font-mulish text-base text-neutral-600 mb-4">
-            Hey, my name is Russell, and I'm a Front-End Developer dedicated to
+            Hey, my name is Russell, and I'm a Web Developer dedicated to
             crafting sleek UI/UX for my users.
           </p>
           <p className="font-mulish text-base text-neutral-600 ">

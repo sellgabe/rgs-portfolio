@@ -8,7 +8,7 @@ const Home = () => {
         <div className="flex gap-3 text-center justify-center items-center flex-col mt-48 ">
           <div className="box-container">
             <div className="box">
-              <div>
+              <div className="w-[8rem] h-[10rem] z-20 rounded-[20px] bg-black">
                 <img
                   src={myPhoto}
                   alt="russell photo"
@@ -18,11 +18,11 @@ const Home = () => {
             </div>
           </div>
           <h1 className="text-5xl font-bold text-neutral-800 max-sm:text-3xl">
-            Front-End Developer
+            Web Developer
           </h1>
           <p className="font-mulish text-xl text-neutral-600 max-sm:text-base">
-            Hi, I'm Russell San Pedro. A passionate Front-End Developer based in
-            the Philippines 📍
+            Hi, I'm Russell San Pedro. A passionate Web Developer based in the
+            Philippines 📍
           </p>
           <div className="flex gap-2 text-white mt-2">
             <button className="px-5 py-3 rounded-xl bg-blue-700 text-white hover:opacity-95">
